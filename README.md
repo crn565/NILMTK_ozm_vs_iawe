@@ -1,6 +1,6 @@
 # ozm_vs_iawe
 
-En este repositorio se desagrega el dataset IAWE con los todos los cuadernos en Jupyter Notebook creados  con  OZM v1, OZM v2 u OMPM. A continuación  podemos ver el detalle sdel dataset IAWE  y en los cuadernos vemos la analitica del NILMTK  sobre el dataset IAWE
+En este repositorio se desagrega el dataset IAWE con los todos los cuadernos en Jupyter Notebook creados  con  OZM v1, OZM v2 u OMPM. A continuación  podemos ver el detalle del dataset IAWE  y en los cuadernos vemos la analitica del NILMTK  sobre el dataset IAWE basandonos en toda la infromacion del respositorio disponible del dataset en <https://iawe.github.io/> 
 
 
 # IAWE -Indian Dataset for Ambient Water and Energy
