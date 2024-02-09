@@ -2,7 +2,7 @@
 
 En este repositorio se desagrega el dataset IAWE con los todos los cuadernos en Jupyter Notebook creados  con  OZM v1, OZM v2 u OMPM.
 
-En ellos podemos estudar  como se puede aplicar NILMTK  sobre el dataset IAWE, con fines por ejemplo de poder comparar los resultados obrtenidos con otros datasets. usando asimismo nuevos algoritmos  u otros dispositivos de medida con otras carasteicticas ( diferentes frecuencias de muestreo, soporte de armonicos, etc.).
+En ellos podemos estudar  como se puede aplicar NILMTK  sobre el dataset IAWE, con fines por ejemplo, de poder comparar los resultados obrtenidos con otros datasets, usando asimismo nuevos algoritmos  u otros dispositivos de medida con otras carastericticas ( diferentes frecuencias de muestreo, soporte de armonicos, etc.).
 
 
 A continuación  podemos ver el detalle del dataset IAWE basandonos en toda la informacion del respositorio disponible del dataset en <https://iawe.github.io/> 
