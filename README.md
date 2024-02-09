@@ -1,4 +1,4 @@
-# ozm_vs_iawe
+# IAWE -Indian Dataset for Ambient Water and Energy
 
 En este repositorio se desagrega el dataset IAWE con los todos los cuadernos en Jupyter Notebook creados  con  OZM v1, OZM v2 u OMPM.
 
@@ -8,7 +8,8 @@ En ellos podemos estudar  como se puede aplicar NILMTK  sobre el dataset IAWE, c
 A continuación  podemos ver el detalle del dataset IAWE basandonos en toda la informacion del repositorio disponible del dataset en <https://iawe.github.io/> 
 
 
-# IAWE -Indian Dataset for Ambient Water and Energy
+
+# Detalles de IAWE
 
 Conjunto de datos indios sobre agua y energía ambiental. En el verano de 2013, se instrumenta una casa en Nueva Delhi, India, con el objetivo de caracterizar los aspectos únicos de la monitorización y el consumo de energía en la India. En total recogieron unos 73 días de datos.
 
